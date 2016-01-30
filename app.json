@@ -1,0 +1,10 @@
+{
+  "name": "_Hello_World",
+  "description": "A super basic PHP app to showcase Heroku Pipelines.",
+  "website": "https://github.com/shtooney/MyHeroku",
+  "repository": "https://github.com/shtooney/MyHeroku",
+  "logo": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg",
+  "env": {},
+  "addons": ["papertrail"]
+
+}
